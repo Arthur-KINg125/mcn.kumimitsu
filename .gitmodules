@@ -1,0 +1,3 @@
+[submodule "MCNcoin"]
+	path = MCNcoin
+	url = git@github.com:Arthur-KINg125/mcn.kumimitsu.git
